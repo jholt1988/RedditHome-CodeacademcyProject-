@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "redux-testkit": "^1.0.6"
+  }
+}
